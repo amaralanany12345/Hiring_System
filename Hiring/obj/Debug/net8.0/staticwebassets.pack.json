@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (2).pdf",
+      "PackagePath": "staticwebassets\\cvs\\save (2).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (4).pdf",
+      "PackagePath": "staticwebassets\\cvs\\save (4).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hiring.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hiring.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hiring.props",
+      "PackagePath": "build\\Hiring.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hiring.props",
+      "PackagePath": "buildMultiTargeting\\Hiring.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hiring.props",
+      "PackagePath": "buildTransitive\\Hiring.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

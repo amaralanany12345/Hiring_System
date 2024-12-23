@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "TlXW0vTglj/ti76qm3Wcit9g++CS4IDOFxc79rTyJPM=",
+  "Source": "Hiring",
+  "BasePath": "_content/Hiring",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Hiring\\wwwroot",
+      "Source": "Hiring",
+      "ContentRoot": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\",
+      "BasePath": "_content/Hiring",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (2).pdf",
+      "SourceId": "Hiring",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\",
+      "BasePath": "_content/Hiring",
+      "RelativePath": "cvs/save (2)#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fv9krsd745",
+      "Integrity": "BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\save (2).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (4).pdf",
+      "SourceId": "Hiring",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\",
+      "BasePath": "_content/Hiring",
+      "RelativePath": "cvs/save (4)#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pr2hbkeqx8",
+      "Integrity": "RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\save (4).pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "cvs/save (2).fv9krsd745.pdf",
+      "AssetFile": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (2).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Sep 2024 08:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fv9krsd745"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/save (2).pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/save (2).pdf",
+      "AssetFile": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (2).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Sep 2024 08:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/save (4).pdf",
+      "AssetFile": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (4).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Sep 2024 09:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/save (4).pr2hbkeqx8.pdf",
+      "AssetFile": "C:\\Users\\Aalan\\source\\repos\\Hiring\\Hiring\\wwwroot\\cvs\\save (4).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Sep 2024 09:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr2hbkeqx8"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/save (4).pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE="
+        }
+      ]
+    }
+  ]
+}

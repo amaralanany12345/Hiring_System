@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "Endpoints": [
+    {
+      "Route": "cvs/save (2).fv9krsd745.pdf",
+      "AssetFile": "cvs/save (2).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Sep 2024 08:47:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fv9krsd745"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44="
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/save (2).pdf"
+        }
+      ]
+    },
+    {
+      "Route": "cvs/save (2).pdf",
+      "AssetFile": "cvs/save (2).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Sep 2024 08:47:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRYUDCxGVLOlJicMCJ7KFK9ZTCsofZL+AU9nZQVJJ44="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/save (4).pdf",
+      "AssetFile": "cvs/save (4).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Sep 2024 09:12:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/save (4).pr2hbkeqx8.pdf",
+      "AssetFile": "cvs/save (4).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Sep 2024 09:12:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr2hbkeqx8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE="
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/save (4).pdf"
+        }
+      ]
+    }
+  ]
+}
